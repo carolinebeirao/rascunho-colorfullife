@@ -1,0 +1,66 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+
+.header {
+    background-image: url("../site/imagens/fundopoligonayellow.svg")  ;
+    background-size:cover ;
+    min-height:  625px;
+    width: 100%;
+}
+
+#logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 40px;
+    width: 25%;
+    
+}
+
+#time {
+    /* background-color: aquamarine; */
+    margin: 50px ;
+    display: flex;
+    padding-top: 60px;
+    
+}
+
+#setas {
+    padding-bottom: 4%;
+    margin: 25px ;
+}
+
+#fotos {
+    display: flex;
+    /* background-color: yellow; */
+    margin: auto;
+
+}
+
+#fotoTime {
+    /* background-color: red; */
+    width: 180px;
+    margin: 25px ;
+}
+
+#fotos p {
+    margin-top: 0px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #BF38B2;
+    
+}
+
+#bolinhas {
+    /* background-color: aquamarine; */
+    display: flex;
+    margin: 0 auto;
+    width: 10%;
+}
+
+#bolinhas img {
+    margin: 10px;
+}
