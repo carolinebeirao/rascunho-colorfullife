@@ -5,7 +5,7 @@ body{
 }
 
 .header {
-    background-image: url("../site/imagens/fundopoligonayellow.svg")  ;
+    background-image: url("./imagens/fundopoligonayellow.svg")  ;
     background-size:cover ;
     min-height:  625px;
     width: 100%;
